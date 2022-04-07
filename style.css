@@ -119,3 +119,16 @@ hr {
     display: box;
     float: left;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    height: 2.5rem;
+}
+
+#copyright {
+    text-align: center;
+}
